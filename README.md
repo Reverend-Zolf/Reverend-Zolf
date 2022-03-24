@@ -6,7 +6,7 @@
 
 <br>
 
-<p><img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif alt="Zolf" /></p>
+<p><img align="right" src="https://preview.redd.it/s1s28yoy53n61.gif?width=256&auto=webp&s=b423482e96658c084f4084c0f4a64b0280163587 alt="Zolf" /></p>
 
 
 <br>
