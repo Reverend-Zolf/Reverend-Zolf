@@ -30,9 +30,8 @@
 </div>
 
 <div align="center"><br><br>
-  💻 <b>Programmer</b><br>
-  🐧 <b>Linux</b><br><br><br>
- 
+<img src="https://i.pinimg.com/originals/9f/16/d9/9f16d926f95e7ccc80b3771c50edaec3.gif" width="100"></h1>
+<p align="center">
 </div>
 
 <!--
