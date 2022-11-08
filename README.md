@@ -24,7 +24,7 @@
 -->
 
 <div>
-  <a href="https://github.com/Comrade-Zolf">
+  <a href="https://github.com/Reverend-Zolf">
   <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=Comrade-Zolf&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
   </a>
 </div>
