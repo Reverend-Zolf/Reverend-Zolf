@@ -30,7 +30,9 @@
 </div>
 
 <div align="center"><br><br>
-<img src="https://media.tenor.com/VymTC9JKTSkAAAAM/faith-cross-sign.gif" width="400"></h1>
+<img src="https://media.tenor.com/VymTC9JKTSkAAAAM/faith-cross-sign.gif" width="200"></h1>
+<img src="https://i.pinimg.com/originals/9e/62/c0/9e62c075097fdd135b4b62521d1e48af.gif" width="200"></h1>
+
 <p align="center">
 </div>
 
