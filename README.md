@@ -1,4 +1,4 @@
-<h3 align="center">May the code be with you | #FreeSoftware</h3>
+<h3 align="center">NOT APPROVED BY THE VATICAN! </h3>
 
 ---
 
@@ -30,7 +30,7 @@
 </div>
 
 <div align="center"><br><br>
-<img src="https://i.pinimg.com/originals/9f/16/d9/9f16d926f95e7ccc80b3771c50edaec3.gif" width="100"></h1>
+<img src="https://media.tenor.com/nDor6SYMhZYAAAAC/faith-the-unholy-trinity-gary.gif" width="100"></h1>
 <p align="center">
 </div>
 
