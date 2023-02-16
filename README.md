@@ -30,7 +30,7 @@
 </div>
 
 <div align="center"><br><br>
-<img src="https://media.tenor.com/nDor6SYMhZYAAAAC/faith-the-unholy-trinity-gary.gif" width="100"></h1>
+<img src="https://media.tenor.com/VymTC9JKTSkAAAAM/faith-cross-sign.gif" width="400"></h1>
 <p align="center">
 </div>
 
