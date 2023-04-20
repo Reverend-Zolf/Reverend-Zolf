@@ -30,7 +30,7 @@
 </div>
 
 <div align="center"><br><br>
-<img src="https://i.redd.it/sn1u86ooqaqa1.gif" width="300"></h1>
+<img src="https://i.redd.it/sn1u86ooqaqa1.gif" width="200"></h1>
 
 
 <p align="center">
