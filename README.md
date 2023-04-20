@@ -1,4 +1,4 @@
-<h3 align="center">NOT APPROVED BY THE VATICAN! </h3>
+<h3 align="center">The Machine Is Never Corrupted</h3>
 
 ---
 
@@ -30,8 +30,8 @@
 </div>
 
 <div align="center"><br><br>
-<img src="https://media.tenor.com/VymTC9JKTSkAAAAM/faith-cross-sign.gif" width="200"></h1>
-<img src="https://i.pinimg.com/originals/9e/62/c0/9e62c075097fdd135b4b62521d1e48af.gif" width="200"></h1>
+<img src="https://media.tenor.com/PObtgfKExyYAAAAC/ugly-americans.gif" width="200"></h1>
+<img src="https://media.tenor.com/xp8XacjuoHkAAAAC/techpriest-warhammer40k.gif" width="200"></h1>
 
 <p align="center">
 </div>
