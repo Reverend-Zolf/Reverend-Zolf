@@ -1,4 +1,4 @@
-<h3 align="center">The Machine Is Never Corrupted</h3>
+<h3 align="center">Guru Meditation Error</h3>
 
 ---
 
