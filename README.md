@@ -5,21 +5,6 @@
     #include <iostream>
     #include <vector>
     
-    int main() {
-        std::vector<std::string> realms = {
-        
-            "Security Research 🛡️",
-            "Software Bestiary 🪳",
-            "Dungeon Exploring 💀",
-            "Code SpellBook 🧙‍♂️",
-       
-        };
-        
-    for (const auto& realm : realms) {
-        std::cout << ">> Enter: " << realm << "\n";
-        }
-
-} 
 /* Most coders think debugging software is about fixing a mistake, but thats bullshit.
 Debugging is actually all about finding the bug. About understanding why the bug was there to begin with. 
 About knowing that its existence was no accident. 
